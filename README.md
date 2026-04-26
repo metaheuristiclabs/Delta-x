@@ -1,6 +1,6 @@
 # Delta-x
 This is a 32-channel passive format jumbler for 3.5mm and 4mm banana jacks. 
-<img width="636" height="1142" alt="20260425_183525(1)" src="https://github.com/user-attachments/assets/2698d334-c23a-4e10-9f2f-c7fbb01df331" />
+<img width="477" height="857" alt="20260425_183525(1)" src="https://github.com/user-attachments/assets/2698d334-c23a-4e10-9f2f-c7fbb01df331" />
 
 This repository contains some files to make this yourself or modify for your purposes:
 1. Gerber files for PCB manufacture
