@@ -4,7 +4,7 @@ This is a 32-channel passive format jumbler for 3.5mm and 4mm banana jacks.
 
 This repository contains some files to make this yourself or modify for your purposes:
 1. Gerber files for PCB manufacture
-2. Artwork files for ordering or editing
+2. Graphics files for ordering or editing
 3. Drill file for enclosure production
-4. BOM (albeit a short one)
-5. KiCad files if I can figure out how to do that properly
+4. BOM
+5. KiCad files
