@@ -1,4 +1,5 @@
 # PCBs
-Use the [gerbers]( to order the PCBs, just drag the zipped folder onto the JLCPCB ordering page, choose your quantity and solder mask color and you're off.
+Use the [gerbers](Production_Files/Gerber/Matrix Jumbler PCB.zip) to order the PCBs, just drag the zipped folder onto the JLCPCB ordering page, choose your quantity and solder mask color and you're off.
 
 # Enclosure
+I get these from Tayda because it's easy, affordable and good quality. You will need a [1590DD enclsoure](https://www.taydaelectronics.com/catalogsearch/result/?q=1590DD) (choose your color). [Tayda's pedal drilling tool](https://drill.taydakits.com/dashboard) is easy to use, just open and save the provided drill template to your account and upload the graphics pdf. That's it!
